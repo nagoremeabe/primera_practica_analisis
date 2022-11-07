@@ -1,4 +1,4 @@
-# Primera Practica Análisis  
+# Primera Práctica Análisis  
 
 <center> Marta Barbolla Galán, Covadonga Galán Fernandez, Victor Galván Fraile, Diego García Moroto y Nagore Meabe Yanguas</center>  
 
